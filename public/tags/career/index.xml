@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Flanagan&#39;s Findings</title>
-    <link>/</link>
-    <description>Recent content on Flanagan&#39;s Findings</description>
+    <title>Career on Flanagan&#39;s Findings</title>
+    <link>/tags/career/</link>
+    <description>Recent content in Career on Flanagan&#39;s Findings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/career/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,15 +27,6 @@
       
       <guid>/2020/01/the-blessing-in-a-layoff/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>More About Chris</title>
-      <link>/2020/01/first-post/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/01/first-post/</guid>
-      <description>About me and why I started to blog</description>
     </item>
     
   </channel>

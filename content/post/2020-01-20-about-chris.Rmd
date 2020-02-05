@@ -8,8 +8,8 @@ tags:
 - Bible
 - Hebrew
 thumbnailImage: "img/author.jpg"
-thumbnailImagePosition: top
-title: More About Chris
+thumbnailImagePosition: right
+title: More about Chris
 coverImage: "img/author.jpg"
 coverSize: partial
 coverCaption: "Chris at Caesarea, 2013"
